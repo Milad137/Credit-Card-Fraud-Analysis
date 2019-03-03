@@ -55,3 +55,4 @@ def hist_intersection(df, target, bins):
         hist_1, _ = np.histogram(series1, density=True, bins=bins)
         hist_2, _ = np.histogram(series2, density=True, bins=bins)
         HI.loc[0,name]=return_intersection(hist_1, hist_2)
+    return HI
