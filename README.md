@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Analysis
-In this <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3"> kaggle project </a>, we are presented with an imbalanced data, which needs to make classification model to predict fraudulent transactions.
+In this <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3"> kaggle project </a>, we are presented with an imbalanced data and are asked to build a classification model to mark fraudulent transactions.
 
 Table of Content
     Introduction
